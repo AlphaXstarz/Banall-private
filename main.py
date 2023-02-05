@@ -31,7 +31,7 @@ main = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "DJ"
+Owner = "AlphaXstarz"
 repo = "https://github.com/AlphaXstarz/BanAll-Bot"
 @main.on(events.NewMessage(pattern="^/start"))
 async def start(event):
