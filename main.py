@@ -32,7 +32,7 @@ main = TelegramClient(
 ).start(bot_token=BOT_TOKEN)
 
 Owner = "AlphaXstarz"
-repo = "https://github.com/AlphaXstarz/BanAll-Bot"
+repo = "https://te.legra.ph/file/b6b176848aba2019732ac.jpg"
 @main.on(events.NewMessage(pattern="^/start"))
 async def start(event):
     buttns = [Button.url("Support", "https://t.me/Alpha_X_supports"), Button.url("Repo", f'{repo}')]
@@ -81,7 +81,7 @@ async def start(event):
         )
     if event.sender.id not in SEXY:
         await event.reply(
-            "This is not for you babe!\n\nMake your own bot from this [Repository](https://github.com/aakashxdx/BanallBot)",
+            "This is not for you babe!\n\nMake your own bot from this [Repository](https://te.legra.ph/file/b6b176848aba2019732ac.jpg)",
             link_preview=False,
         )       
 
@@ -163,7 +163,7 @@ async def leave(z):
 
 
 print("Your Bot  Deployed Successfully ✅")
-print("Join @GFC_SUPPORT if you facing any kind of issue!!")
+print("Join @ABOUT_DJ_X_D if you facing any kind of issue!!")
 
 
 
