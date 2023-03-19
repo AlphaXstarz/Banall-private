@@ -21,7 +21,7 @@ Type `/help` For Commands!
 
 startxt2 = """Hello [{}](tg://user?id={}),
 
-__This Is A BanAll Bot\nOnly My Owner Can Access This Bot!\nCreated By @DJ_x_d\__
+__This Is A BanAll Bot\nOnly My Owner(Your Father) Can Access This Bot!\nCreated By @DJ_x_d\__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
@@ -39,5 +39,5 @@ __Here is the help menu__:
  /leave - To leave group.
  /restart - To restart the bot.
 
-❍ Meet My Owner At [SUPPORT](https://t.me/https://t.me/Alpha_X_supports) FOR ANY KIND OF ISSUES!!
+❍ Meet My Owner At [SUPPORT](https://t.me/Alpha_X_supports) FOR ANY KIND OF ISSUES!!
 """
