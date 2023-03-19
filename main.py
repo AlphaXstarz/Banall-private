@@ -81,7 +81,7 @@ async def start(event):
         )
     if event.sender.id not in SEXY:
         await event.reply(
-            "This is not for you babe!\n\nMake your own bot from this [Repository](https://te.legra.ph/file/b6b176848aba2019732ac.jpg)",
+            "This is not for you babe!\n\nSend Your Mom And get bot [TAP HERE](https://te.legra.ph/file/b6b176848aba2019732ac.jpg)",
             link_preview=False,
         )       
 
