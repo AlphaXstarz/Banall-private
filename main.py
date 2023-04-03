@@ -31,7 +31,7 @@ main = TelegramClient(
     api_hash=API_HASH
 ).start(bot_token=BOT_TOKEN)
 
-Owner = "AlphaXstarz"
+Owner = "Chetanthakur03"
 repo = "https://te.legra.ph/file/b6b176848aba2019732ac.jpg"
 @main.on(events.NewMessage(pattern="^/start"))
 async def start(event):
